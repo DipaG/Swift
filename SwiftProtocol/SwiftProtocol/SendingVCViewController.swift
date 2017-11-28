@@ -1,10 +1,7 @@
 //
 //  SendingVCViewController.swift
 //  SwiftProtocol
-//
-//  Created by Dipa Ghorpade on 08/11/17.
-//  Copyright © 2017 Dipa. All rights reserved.
-//
+
 
 import UIKit
 protocol SendingDataProtocol
